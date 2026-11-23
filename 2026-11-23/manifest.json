@@ -1,0 +1,75 @@
+{
+  "canal": "Historia de Bolsillo",
+  "fecha": "2026-11-23",
+  "palabra_clave": "DINERO",
+  "videos": [
+    {
+      "orden": 1,
+      "archivo": "2026-11-23_1_roma.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/historia-de-bolsillo-videos./main/2026-11-23/2026-11-23_1_roma.mp4",
+      "publicar_en": "2026-11-23T18:30:00+01:00",
+      "zona_horaria": "Europe/Madrid",
+      "titulo": "Los romanos lavaban la ropa con pis (y había impuesto)",
+      "descripcion": "En la antigua Roma, el pis valía dinero: los lavanderos lo usaban para limpiar y blanquear las togas, y el emperador Vespasiano le puso un impuesto. Cuando su hijo protestó, le acercó una moneda a la nariz. De ahí viene «el dinero no huele».\n\nFuentes: Suetonio, Vida de Vespasiano, 23 · Wikipedia, «Pecunia non olet» y «Fulling» · Amusing Planet, «Pecunia Non Olet: The Urine Tax of Ancient Rome» (2025).\n\n#Shorts #Historia #AntiguaRoma #Curiosidades #SabíasQue",
+      "hashtags": [
+        "#Shorts",
+        "#Historia",
+        "#AntiguaRoma",
+        "#Curiosidades",
+        "#SabíasQue"
+      ],
+      "etiquetas": [
+        "historia",
+        "curiosidades",
+        "datos curiosos",
+        "sabías que",
+        "historia de bolsillo",
+        "historia",
+        "antiguaroma",
+        "curiosidades",
+        "sabíasque"
+      ],
+      "categoria_id": "27",
+      "idioma": "es",
+      "para_ninos": false,
+      "contenido_sintetico_realista": false,
+      "privacidad_hasta_publicar": "private",
+      "comentario_fijado": "¿Te lavarías la ropa con pis si te ahorrara la lavadora? Sí o no, sin trampa.",
+      "duracion_s": 34
+    },
+    {
+      "orden": 2,
+      "archivo": "2026-11-23_2_yap.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/historia-de-bolsillo-videos./main/2026-11-23/2026-11-23_2_yap.mp4",
+      "publicar_en": "2026-11-23T21:30:00+01:00",
+      "zona_horaria": "Europe/Madrid",
+      "titulo": "Eran ricos gracias a una piedra que nadie había visto",
+      "descripcion": "En la isla de Yap, en Micronesia, el dinero eran enormes ruedas de piedra. Una familia siguió siendo rica durante generaciones gracias a una que se hundió en el mar durante una tormenta. Y en 1932, la Reserva Federal de Nueva York hizo algo muy parecido con el oro de Francia.\n\nFuentes: W. H. Furness, «The Island of Stone Money» (1910) · M. Friedman, «The Island of Stone Money» (1991) · Wikipedia, «Rai stones» · NPR Planet Money (2011).\n\n#Shorts #Historia #Dinero #Curiosidades #Economía",
+      "hashtags": [
+        "#Shorts",
+        "#Historia",
+        "#Dinero",
+        "#Curiosidades",
+        "#Economía"
+      ],
+      "etiquetas": [
+        "historia",
+        "curiosidades",
+        "datos curiosos",
+        "sabías que",
+        "historia de bolsillo",
+        "historia",
+        "dinero",
+        "curiosidades",
+        "economía"
+      ],
+      "categoria_id": "27",
+      "idioma": "es",
+      "para_ninos": false,
+      "contenido_sintetico_realista": false,
+      "privacidad_hasta_publicar": "private",
+      "comentario_fijado": "Si tu dinero estuviera en el fondo del mar, ¿seguirías sintiéndote rico? Tinta dice que no.",
+      "duracion_s": 47
+    }
+  ]
+}
