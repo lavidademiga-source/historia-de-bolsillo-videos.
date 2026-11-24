@@ -1,0 +1,75 @@
+{
+  "canal": "Historia de Bolsillo",
+  "fecha": "2026-11-26",
+  "palabra_clave": "CORREO",
+  "videos": [
+    {
+      "orden": 1,
+      "archivo": "2026-11-26_1_palomas.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/historia-de-bolsillo-videos./main/2026-11-26/2026-11-26_1_palomas.mp4",
+      "publicar_en": "2026-11-26T18:30:00+01:00",
+      "zona_horaria": "Europe/Madrid",
+      "titulo": "Más de 100.000 mensajes entraron en París volando",
+      "descripcion": "En 1870, el ejército prusiano sitió París y la dejó incomunicada. Los parisinos sacaron palomas mensajeras en globo y, desde fuera, ellas volvían a casa con el correo. El fotógrafo René Dagron encogía hojas llenas de mensajes en microfilms: una paloma podía llevar veinte, y entre todos pesaban un gramo. En París los proyectaban con una linterna mágica y un equipo de escribientes los copiaba a mano.\n\nFuentes: Wikipedia, «Pigeon post» y «René Dagron» · UCLA Library, «The Pigeon Post into Paris 1870-1871» · HistoryofInformation.com, «René Dagron Operates the Pigeon Post into Paris» · Chemins de mémoire (Ministerio de las Fuerzas Armadas de Francia), «Pigeongrams» · A. Horne, «The Fall of Paris» (1965).\n\n#Shorts #Historia #París #Curiosidades #SabíasQue",
+      "hashtags": [
+        "#Shorts",
+        "#Historia",
+        "#París",
+        "#Curiosidades",
+        "#SabíasQue"
+      ],
+      "etiquetas": [
+        "historia",
+        "curiosidades",
+        "datos curiosos",
+        "sabías que",
+        "historia de bolsillo",
+        "historia",
+        "parís",
+        "curiosidades",
+        "sabíasque"
+      ],
+      "categoria_id": "27",
+      "idioma": "es",
+      "para_ninos": false,
+      "contenido_sintetico_realista": false,
+      "privacidad_hasta_publicar": "private",
+      "comentario_fijado": "Si solo cupiera una frase en la paloma, ¿qué mensaje mandarías? Crono mandaría «sigo vivo».",
+      "duracion_s": 46
+    },
+    {
+      "orden": 2,
+      "archivo": "2026-11-26_2_ninos.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/historia-de-bolsillo-videos./main/2026-11-26/2026-11-26_2_ninos.mp4",
+      "publicar_en": "2026-11-26T21:30:00+01:00",
+      "zona_horaria": "Europe/Madrid",
+      "titulo": "Hubo que prohibir mandar niños por correo",
+      "descripcion": "En 1913 nació en Estados Unidos el servicio postal de paquetes, y a las pocas semanas una pareja de Ohio envió a su bebé a casa de la abuela: 15 centavos de franqueo y un seguro de 50 dólares. En 1914, una niña de Idaho viajó 73 millas en el vagón del correo con 53 centavos en sellos pegados al abrigo. Y en 1920 el correo rechazó dos peticiones más: un niño no es un «animal vivo inofensivo». Hoy admite pollitos de un día… pero niños, ninguno.\n\nFuentes: Smithsonian National Postal Museum, «Precious Packages: America's Parcel Post Service» · Smithsonian Magazine, «A Brief History of Children Sent Through the Mail» (2016) · USPS News Link, «Tots in transit» (2016) · History.com, sobre los niños enviados por correo (B. Little) · USPS, Publicación 52, sección 526 · NPR (2025), sobre los pollitos enviados por correo.\n\n#Shorts #Historia #EstadosUnidos #Curiosidades #Correo",
+      "hashtags": [
+        "#Shorts",
+        "#Historia",
+        "#EstadosUnidos",
+        "#Curiosidades",
+        "#Correo"
+      ],
+      "etiquetas": [
+        "historia",
+        "curiosidades",
+        "datos curiosos",
+        "sabías que",
+        "historia de bolsillo",
+        "historia",
+        "estadosunidos",
+        "curiosidades",
+        "correo"
+      ],
+      "categoria_id": "27",
+      "idioma": "es",
+      "para_ninos": false,
+      "contenido_sintetico_realista": false,
+      "privacidad_hasta_publicar": "private",
+      "comentario_fijado": "¿A quién de tu familia habrías mandado por correo de pequeño? Tinta pide que sea sin acuse de recibo.",
+      "duracion_s": 48
+    }
+  ]
+}
