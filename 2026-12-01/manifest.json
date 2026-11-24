@@ -1,0 +1,75 @@
+{
+  "canal": "Historia de Bolsillo",
+  "fecha": "2026-12-01",
+  "palabra_clave": "TIEMPO",
+  "videos": [
+    {
+      "orden": 1,
+      "archivo": "2026-12-01_1_calendario.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/historia-de-bolsillo-videos./main/2026-12-01/2026-12-01_1_calendario.mp4",
+      "publicar_en": "2026-12-01T18:30:00+01:00",
+      "zona_horaria": "Europe/Madrid",
+      "titulo": "Te acostaste el 4 de octubre y despertaste el 15",
+      "descripcion": "En 1582, el papa Gregorio XIII corrigió el calendario de Julio César, que se pasaba unos 11 minutos al año: en España, Italia, Portugal y Polonia, al jueves 4 de octubre le siguió el viernes 15. Esa misma noche murió Teresa de Jesús; Rusia no cambió hasta 1918, y la Iglesia ortodoxa rusa aún celebra la Navidad el 7 de enero.\n\nFuentes: Encyclopaedia Britannica, «Ten Days That Vanished» y «Why is it called the October Revolution if it took place in November?» · Wikipedia, «Teresa of Ávila» · EBSCO Research Starters, «Death of St. Teresa of Ávila» · Seventeen Moments in Soviet History (Michigan State University), «The New Calendar and Alphabet Reform» · National Geographic, «El curioso motivo por el que algunas personas celebran la Navidad en enero» (2023).\n\n#Shorts #Historia #Calendario #Curiosidades #SabíasQue",
+      "hashtags": [
+        "#Shorts",
+        "#Historia",
+        "#Calendario",
+        "#Curiosidades",
+        "#SabíasQue"
+      ],
+      "etiquetas": [
+        "historia",
+        "curiosidades",
+        "datos curiosos",
+        "sabías que",
+        "historia de bolsillo",
+        "historia",
+        "calendario",
+        "curiosidades",
+        "sabíasque"
+      ],
+      "categoria_id": "27",
+      "idioma": "es",
+      "para_ninos": false,
+      "contenido_sintetico_realista": false,
+      "privacidad_hasta_publicar": "private",
+      "comentario_fijado": "Si pudieras borrar diez días del calendario, ¿cuáles quitarías? Tinta ya ha elegido los lunes.",
+      "duracion_s": 49
+    },
+    {
+      "orden": 2,
+      "archivo": "2026-12-01_2_belville.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/historia-de-bolsillo-videos./main/2026-12-01/2026-12-01_2_belville.mp4",
+      "publicar_en": "2026-12-01T21:30:00+01:00",
+      "zona_horaria": "Europe/Madrid",
+      "titulo": "Esta familia vendió la hora durante más de 100 años",
+      "descripcion": "Desde 1836, la familia Belville se ganó la vida vendiendo la hora exacta en Londres: ponían en hora un reloj de bolsillo en el Observatorio de Greenwich y sus clientes ajustaban sus relojes con él. Primero John Henry, después su viuda, Maria, y hasta 1940 su hija, Ruth, a la que un rival ridiculizó en la prensa… y le salió publicidad gratis.\n\nFuentes: Royal Museums Greenwich, «Ruth Belville: the Greenwich Time Lady» · Science Museum Group, blog «Ruth Belville: the Greenwich Time Lady» y ficha del reloj de John Arnold usado por la familia Belville · Wikipedia, «Ruth Belville» · Amusing Planet, «The Family That Sold Time» (2022).\n\n#Shorts #Historia #Londres #Curiosidades #Relojes",
+      "hashtags": [
+        "#Shorts",
+        "#Historia",
+        "#Londres",
+        "#Curiosidades",
+        "#Relojes"
+      ],
+      "etiquetas": [
+        "historia",
+        "curiosidades",
+        "datos curiosos",
+        "sabías que",
+        "historia de bolsillo",
+        "historia",
+        "londres",
+        "curiosidades",
+        "relojes"
+      ],
+      "categoria_id": "27",
+      "idioma": "es",
+      "para_ninos": false,
+      "contenido_sintetico_realista": false,
+      "privacidad_hasta_publicar": "private",
+      "comentario_fijado": "¿Pagarías por que alguien viniera cada semana a ponerte el reloj en hora? Crono dice que él cobraría el doble.",
+      "duracion_s": 47
+    }
+  ]
+}
