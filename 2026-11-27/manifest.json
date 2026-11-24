@@ -1,0 +1,75 @@
+{
+  "canal": "Historia de Bolsillo",
+  "fecha": "2026-11-27",
+  "palabra_clave": "ANIMALES",
+  "videos": [
+    {
+      "orden": 1,
+      "archivo": "2026-11-27_1_oso.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/historia-de-bolsillo-videos./main/2026-11-27/2026-11-27_1_oso.mp4",
+      "publicar_en": "2026-11-27T18:30:00+01:00",
+      "zona_horaria": "Europe/Madrid",
+      "titulo": "En 1252, un oso polar pescaba en el Támesis (con correa)",
+      "descripcion": "En 1252, el rey de Noruega le regaló a Enrique III de Inglaterra un oso blanco, probablemente un oso polar. Mantenerlo salía tan caro que el rey hizo pagar a los sheriffs de Londres, y les ordenó un bozal, una cadena y una cuerda larga para que el oso pudiera nadar y pescar en el Támesis. Tres años después llegó un elefante a la Torre… y le robó el protagonismo. Hoy, en la Torre de Londres, hay un oso polar de alambre que lo recuerda.\n\nFuentes: Historic Royal Palaces, «The Tower of London menagerie» y «Royal Beasts» · Wikipedia, «White bear of Henry III» · Historic UK, «King Henry III's Polar Bear» · History Hit, «Lions and Tigers and Bears: The Tower of London Menagerie» (2022) · Country Life, «Did the Tower of London menagerie provide the animals for London Zoo?» (2022).\n\n#Shorts #Historia #Londres #Curiosidades #Animales",
+      "hashtags": [
+        "#Shorts",
+        "#Historia",
+        "#Londres",
+        "#Curiosidades",
+        "#Animales"
+      ],
+      "etiquetas": [
+        "historia",
+        "curiosidades",
+        "datos curiosos",
+        "sabías que",
+        "historia de bolsillo",
+        "historia",
+        "londres",
+        "curiosidades",
+        "animales"
+      ],
+      "categoria_id": "27",
+      "idioma": "es",
+      "para_ninos": false,
+      "contenido_sintetico_realista": false,
+      "privacidad_hasta_publicar": "private",
+      "comentario_fijado": "Si un rey te regalara un oso polar, ¿dónde lo meterías? Crono ya está mirando la bañera.",
+      "duracion_s": 42
+    },
+    {
+      "orden": 2,
+      "archivo": "2026-11-27_2_hans.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/historia-de-bolsillo-videos./main/2026-11-27/2026-11-27_2_hans.mp4",
+      "publicar_en": "2026-11-27T21:30:00+01:00",
+      "zona_horaria": "Europe/Madrid",
+      "titulo": "El caballo que «sabía» sumar (y despistó a los expertos)",
+      "descripcion": "En el Berlín de principios del siglo XX, Hans el Listo parecía resolver cuentas dando golpes con la pata, y en 1904 una comisión de expertos no encontró ningún truco. El investigador Oskar Pfungst descubrió el secreto: con anteojeras, o si quien preguntaba no sabía la respuesta, Hans fallaba casi siempre, porque leía movimientos mínimos e involuntarios de la cabeza de quien le preguntaba. Hoy, cuando una inteligencia artificial acierta por el motivo equivocado, se habla del «efecto Hans el Listo».\n\nFuentes: O. Pfungst, «Clever Hans (The Horse of Mr. von Osten)» (1907; trad. inglesa de 1911, Proyecto Gutenberg) · Encyclopaedia Britannica, «Clever Hans» · Wikipedia, «Clever Hans» · S. Lapuschkin et al., «Unmasking Clever Hans predictors and assessing what machines really learn», Nature Communications (2019).\n\n#Shorts #Historia #Caballos #Curiosidades #InteligenciaArtificial",
+      "hashtags": [
+        "#Shorts",
+        "#Historia",
+        "#Caballos",
+        "#Curiosidades",
+        "#InteligenciaArtificial"
+      ],
+      "etiquetas": [
+        "historia",
+        "curiosidades",
+        "datos curiosos",
+        "sabías que",
+        "historia de bolsillo",
+        "historia",
+        "caballos",
+        "curiosidades",
+        "inteligenciaartificial"
+      ],
+      "categoria_id": "27",
+      "idioma": "es",
+      "para_ninos": false,
+      "contenido_sintetico_realista": false,
+      "privacidad_hasta_publicar": "private",
+      "comentario_fijado": "¿Qué animal crees que sí sabría sumar? Tinta dice que las lechuzas, obviamente.",
+      "duracion_s": 49
+    }
+  ]
+}
