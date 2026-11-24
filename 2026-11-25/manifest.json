@@ -1,0 +1,75 @@
+{
+  "canal": "Historia de Bolsillo",
+  "fecha": "2026-11-25",
+  "palabra_clave": "COMIDA",
+  "videos": [
+    {
+      "orden": 1,
+      "archivo": "2026-11-25_1_pinas.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/historia-de-bolsillo-videos./main/2026-11-25/2026-11-25_1_pinas.mp4",
+      "publicar_en": "2026-11-25T18:30:00+01:00",
+      "zona_horaria": "Europe/Madrid",
+      "titulo": "En el siglo XVIII alquilaban piñas (y no para comérselas)",
+      "descripcion": "En la Gran Bretaña del siglo XVIII, la piña era un lujo exótico que había que cultivar en invernaderos con estufas. Quien no podía comprarse una, la alquilaba para una noche y la lucía en la fiesta. Y un conde escocés se construyó un edificio coronado por una piña de piedra gigante, que hoy se puede alquilar para pasar unos días.\n\nFuentes: F. Beauman, «The King of Fruits», Cabinet Magazine n.º 23 (2006) · Historic UK, «King Pine, The Pineapple» · Mental Floss, «The Super-Luxe History of Pineapples» · National Trust for Scotland, «The Pineapple» · Wikipedia, «Dunmore Pineapple» · The Landmark Trust, «The Pineapple».\n\n#Shorts #Historia #Piña #Curiosidades #SabíasQue",
+      "hashtags": [
+        "#Shorts",
+        "#Historia",
+        "#Piña",
+        "#Curiosidades",
+        "#SabíasQue"
+      ],
+      "etiquetas": [
+        "historia",
+        "curiosidades",
+        "datos curiosos",
+        "sabías que",
+        "historia de bolsillo",
+        "historia",
+        "piña",
+        "curiosidades",
+        "sabíasque"
+      ],
+      "categoria_id": "27",
+      "idioma": "es",
+      "para_ninos": false,
+      "contenido_sintetico_realista": false,
+      "privacidad_hasta_publicar": "private",
+      "comentario_fijado": "Si pudieras alquilar cualquier cosa solo para presumir una noche, ¿qué sería? Crono quiere otra piña.",
+      "duracion_s": 38
+    },
+    {
+      "orden": 2,
+      "archivo": "2026-11-25_2_ketchup.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/historia-de-bolsillo-videos./main/2026-11-25/2026-11-25_2_ketchup.mp4",
+      "publicar_en": "2026-11-25T21:30:00+01:00",
+      "zona_horaria": "Europe/Madrid",
+      "titulo": "El kétchup era salsa de pescado (y el tomate, medicina)",
+      "descripcion": "El kétchup nació como una salsa de pescado fermentado del sur de China que marineros ingleses y holandeses llevaron a Europa, donde se hizo con setas, nueces u ostras. La primera receta conocida con tomate es de 1812, y en la década de 1830 un médico estadounidense aseguró que el tomate curaba la diarrea y la indigestión: se vendieron pastillas de tomate por todo el país… y muchas no llevaban ni rastro de tomate.\n\nFuentes: NPR Code Switch, «Ketchup: The All-American Condiment That Comes From Asia» (2013) · Smithsonian Magazine, «There's Something Fishy About the Ketchup You Put On Your Burgers» · History.com, historia del kétchup (S. Butler) · Atlas Obscura y JSTOR Daily, sobre las pastillas de tomate de 1830-1850 · Mental Floss, «When a Quack Doctor Touted Tomatoes as a Medical Cure-All».\n\n#Shorts #Historia #Kétchup #Curiosidades #Comida",
+      "hashtags": [
+        "#Shorts",
+        "#Historia",
+        "#Kétchup",
+        "#Curiosidades",
+        "#Comida"
+      ],
+      "etiquetas": [
+        "historia",
+        "curiosidades",
+        "datos curiosos",
+        "sabías que",
+        "historia de bolsillo",
+        "historia",
+        "kétchup",
+        "curiosidades",
+        "comida"
+      ],
+      "categoria_id": "27",
+      "idioma": "es",
+      "para_ninos": false,
+      "contenido_sintetico_realista": false,
+      "privacidad_hasta_publicar": "private",
+      "comentario_fijado": "¿Kétchup en la pizza: sí o no? Tinta ya ha votado y no ha sido amable.",
+      "duracion_s": 49
+    }
+  ]
+}
