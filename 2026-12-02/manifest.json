@@ -1,0 +1,75 @@
+{
+  "canal": "Historia de Bolsillo",
+  "fecha": "2026-12-02",
+  "palabra_clave": "DEPORTE",
+  "videos": [
+    {
+      "orden": 1,
+      "archivo": "2026-12-02_1_zanes.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/historia-de-bolsillo-videos./main/2026-12-02/2026-12-02_1_zanes.mp4",
+      "publicar_en": "2026-12-02T18:30:00+01:00",
+      "zona_horaria": "Europe/Madrid",
+      "titulo": "Si hacías trampas en Olimpia, pagabas una estatua",
+      "descripcion": "En la antigua Olimpia, a los atletas que hacían trampas les ponían una multa, y con ese dinero se levantaban estatuas de bronce de Zeus: los «zanes». Las primeras se pagaron en el 388 a. C., después de que Eupolo de Tesalia sobornara a tres boxeadores, y se colocaron en el camino al estadio, a la vista de todos los atletas. En el 332 a. C., Atenas se negó a pagar la multa de Calipo, que había sobornado a sus rivales del pentatlón, y dejó de ir a los Juegos… hasta que el oráculo de Delfos se negó a responder a los atenienses mientras no pagaran. Las basas de piedra todavía se conservan en Olimpia.\n\nFuentes: Pausanias, «Descripción de Grecia», 5.21 · W. Smith, «Dictionary of Greek and Roman Biography and Mythology», entrada «Callippus» · Olympedia, «Kallippos» · The Conversation, «Cheating, bribery and scandal: how the ancient Greeks did the Olympic Games» (2016) · TheCollector, «Corruption, Bribery, and Cheating in the Ancient Olympics» · World History Encyclopedia, «The Zanes, Olympia».\n\n#Shorts #Historia #AntiguaGrecia #Curiosidades #JuegosOlímpicos",
+      "hashtags": [
+        "#Shorts",
+        "#Historia",
+        "#AntiguaGrecia",
+        "#Curiosidades",
+        "#JuegosOlímpicos"
+      ],
+      "etiquetas": [
+        "historia",
+        "curiosidades",
+        "datos curiosos",
+        "sabías que",
+        "historia de bolsillo",
+        "historia",
+        "antiguagrecia",
+        "curiosidades",
+        "juegosolímpicos"
+      ],
+      "categoria_id": "27",
+      "idioma": "es",
+      "para_ninos": false,
+      "contenido_sintetico_realista": false,
+      "privacidad_hasta_publicar": "private",
+      "comentario_fijado": "¿Qué castigo pondrías tú a los tramposos: estatua, multa o algo peor? Crono propone que limpien el estadio.",
+      "duracion_s": 45
+    },
+    {
+      "orden": 2,
+      "archivo": "2026-12-02_2_arte.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/historia-de-bolsillo-videos./main/2026-12-02/2026-12-02_2_arte.mp4",
+      "publicar_en": "2026-12-02T21:30:00+01:00",
+      "zona_horaria": "Europe/Madrid",
+      "titulo": "Hubo medallas olímpicas por pintar (y por escribir)",
+      "descripcion": "Entre 1912 y 1948, los Juegos Olímpicos dieron medallas de arte en cinco categorías: arquitectura, literatura, música, pintura y escultura, siempre con obras inspiradas en el deporte. En 1912, el oro de literatura fue para una «Oda al deporte» firmada por Georges Hohrod y M. Eschbach: dos seudónimos de Pierre de Coubertin, el padre de los Juegos modernos. Walter Winans ganó el oro de tiro en 1908 y el de escultura en 1912. Después de 1948 se suprimieron porque los artistas vivían de su obra y los Juegos eran para aficionados, y hoy esas medallas no cuentan en el medallero oficial.\n\nFuentes: Smithsonian Magazine, «Poetry Was an Official Olympic Event for Nearly 40 Years. What Happened?» · Scientific American, «When the Olympics Awarded Medals to Artists» · Olympics.com, «Look to the past: when Olympic medals were awarded for architecture, music and literature».\n\n#Shorts #Historia #JuegosOlímpicos #Curiosidades #Arte",
+      "hashtags": [
+        "#Shorts",
+        "#Historia",
+        "#JuegosOlímpicos",
+        "#Curiosidades",
+        "#Arte"
+      ],
+      "etiquetas": [
+        "historia",
+        "curiosidades",
+        "datos curiosos",
+        "sabías que",
+        "historia de bolsillo",
+        "historia",
+        "juegosolímpicos",
+        "curiosidades",
+        "arte"
+      ],
+      "categoria_id": "27",
+      "idioma": "es",
+      "para_ninos": false,
+      "contenido_sintetico_realista": false,
+      "privacidad_hasta_publicar": "private",
+      "comentario_fijado": "Si volviera la medalla olímpica de arte, ¿en qué categoría competirías? Tinta sigue puliendo su poema de bádminton.",
+      "duracion_s": 49
+    }
+  ]
+}
