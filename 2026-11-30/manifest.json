@@ -1,0 +1,75 @@
+{
+  "canal": "Historia de Bolsillo",
+  "fecha": "2026-11-30",
+  "palabra_clave": "COLORES",
+  "videos": [
+    {
+      "orden": 1,
+      "archivo": "2026-11-30_1_perkin.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/historia-de-bolsillo-videos./main/2026-11-30/2026-11-30_1_perkin.mp4",
+      "publicar_en": "2026-11-30T18:30:00+01:00",
+      "zona_horaria": "Europe/Madrid",
+      "titulo": "Buscaba una medicina… y le salió un color de moda",
+      "descripcion": "En 1856, durante las vacaciones de Semana Santa, William Perkin, un estudiante de química de 18 años, intentaba fabricar quinina, la medicina contra la malaria, en el laboratorio que se había montado en casa, en Londres. Le salió una pringue negra, pero al limpiar el matraz con alcohol apareció un morado brillante: la malveína. Lo patentó con 18 años, abrió una fábrica en 1857 y el malva se puso de moda: hasta la reina Victoria lo llevó, y la revista Punch bromeó con el «sarampión malva». La química de los tintes ayudó después a crear la industria farmacéutica.\n\nFuentes: Science History Institute, «William Henry Perkin» · Linda Hall Library, «Scientist of the Day: William Henry Perkin» · Smithsonian Magazine, «How Malaria Gave Us Mauve» · Universidad de Aberdeen (2016), sobre Perkin y la malveína · Wikipedia, «William Henry Perkin» y «Mauveine».\n\n#Shorts #Historia #Ciencia #Curiosidades #SabíasQue",
+      "hashtags": [
+        "#Shorts",
+        "#Historia",
+        "#Ciencia",
+        "#Curiosidades",
+        "#SabíasQue"
+      ],
+      "etiquetas": [
+        "historia",
+        "curiosidades",
+        "datos curiosos",
+        "sabías que",
+        "historia de bolsillo",
+        "historia",
+        "ciencia",
+        "curiosidades",
+        "sabíasque"
+      ],
+      "categoria_id": "27",
+      "idioma": "es",
+      "para_ninos": false,
+      "contenido_sintetico_realista": false,
+      "privacidad_hasta_publicar": "private",
+      "comentario_fijado": "Si un experimento tuyo saliera morado por error, ¿lo tirarías o lo patentarías? Crono ya está buscando un frasco.",
+      "duracion_s": 43
+    },
+    {
+      "orden": 2,
+      "archivo": "2026-11-30_2_purpura.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/historia-de-bolsillo-videos./main/2026-11-30/2026-11-30_2_purpura.mp4",
+      "publicar_en": "2026-11-30T21:30:00+01:00",
+      "zona_horaria": "Europe/Madrid",
+      "titulo": "Este color estuvo prohibido durante siglos (y apestaba)",
+      "descripcion": "La púrpura de Tiro salía de caracoles marinos: unos 12.000 daban apenas 1,4 gramos de tinte, lo justo para teñir el borde de una prenda. Fabricarla olía fatal (Plinio el Viejo se quejaba del olor) y los talleres se instalaban lejos de las casas. En el año 301, el edicto de precios del emperador Diocleciano fijó una libra de tinte en 150.000 denarios, unas tres libras de oro. Las leyes reservaban la púrpura a la élite y, en Bizancio, a la familia imperial: a los hijos del emperador los llamaban «nacidos en la púrpura», porque nacían en una sala del palacio de Constantinopla forrada de pórfido.\n\nFuentes: National Geographic, «Purple Reign» (M. Woolmer) · World History Encyclopedia, «Tyrian Purple» (M. Cartwright, 2016) · Penn Libraries, Materials Library, «A Purple Suited Only for Emperors» (2018) · Kelsey Museum (Universidad de Míchigan), «Ancient Color» · Mental Floss, «Why Is Purple the Color of Royalty?» · Britannica, «Constantine VII Porphyrogenitus» · Wikipedia, «Born in the purple».\n\n#Shorts #Historia #AntiguaRoma #Curiosidades #Bizancio",
+      "hashtags": [
+        "#Shorts",
+        "#Historia",
+        "#AntiguaRoma",
+        "#Curiosidades",
+        "#Bizancio"
+      ],
+      "etiquetas": [
+        "historia",
+        "curiosidades",
+        "datos curiosos",
+        "sabías que",
+        "historia de bolsillo",
+        "historia",
+        "antiguaroma",
+        "curiosidades",
+        "bizancio"
+      ],
+      "categoria_id": "27",
+      "idioma": "es",
+      "para_ninos": false,
+      "contenido_sintetico_realista": false,
+      "privacidad_hasta_publicar": "private",
+      "comentario_fijado": "¿Cuántos caracoles darías por un ribete morado? Tinta no da ni uno.",
+      "duracion_s": 49
+    }
+  ]
+}
