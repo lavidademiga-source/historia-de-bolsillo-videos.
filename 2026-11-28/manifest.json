@@ -1,0 +1,75 @@
+{
+  "canal": "Historia de Bolsillo",
+  "fecha": "2026-11-28",
+  "palabra_clave": "HIELO",
+  "videos": [
+    {
+      "orden": 1,
+      "archivo": "2026-11-28_1_tudor.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/historia-de-bolsillo-videos./main/2026-11-28/2026-11-28_1_tudor.mp4",
+      "publicar_en": "2026-11-28T18:30:00+01:00",
+      "zona_horaria": "Europe/Madrid",
+      "titulo": "Se hizo rico vendiendo hielo… en el trópico",
+      "descripcion": "En 1806, Frederic Tudor mandó un barco cargado de hielo de Boston a la isla de Martinica, y un periódico de Boston se burló de su «especulación resbaladiza». Mucho hielo se derritió, perdió dinero y llegó a pasar por la cárcel por deudas. Pero aisló los bloques con serrín, regaló hielo a los camareros para aficionar a la gente a las bebidas frías y, en 1833, mandó unas 180 toneladas a Calcuta: tras cuatro meses de viaje llegaron unas 100. Le llamaron el Rey del Hielo.\n\nFuentes: Wikipedia, «Frederic Tudor» · National Geographic, sobre Frederic Tudor, el rey del hielo · BU Today (Boston University), «Tracing the History of New England's Ice Trade» (2022) · New England Historical Society, «Frederic Tudor in 1806 Brings Cocktails and Ice Cream to the Rest of the World» · Mental Floss, «The Surprisingly Cool History of Ice» · The Mechanics' Magazine (1836), sobre el hielo llegado a Calcuta.\n\n#Shorts #Historia #Hielo #Curiosidades #SabíasQue",
+      "hashtags": [
+        "#Shorts",
+        "#Historia",
+        "#Hielo",
+        "#Curiosidades",
+        "#SabíasQue"
+      ],
+      "etiquetas": [
+        "historia",
+        "curiosidades",
+        "datos curiosos",
+        "sabías que",
+        "historia de bolsillo",
+        "historia",
+        "hielo",
+        "curiosidades",
+        "sabíasque"
+      ],
+      "categoria_id": "27",
+      "idioma": "es",
+      "para_ninos": false,
+      "contenido_sintetico_realista": false,
+      "privacidad_hasta_publicar": "private",
+      "comentario_fijado": "¿Habrías invertido en el hielo de Tudor en 1806 o te habrías reído como el periódico? Crono ya está sudando.",
+      "duracion_s": 44
+    },
+    {
+      "orden": 2,
+      "archivo": "2026-11-28_2_nieve.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/historia-de-bolsillo-videos./main/2026-11-28/2026-11-28_2_nieve.mp4",
+      "publicar_en": "2026-11-28T21:30:00+01:00",
+      "zona_horaria": "Europe/Madrid",
+      "titulo": "Vender nieve sin permiso en Madrid estaba prohibido",
+      "descripcion": "En 1607, Felipe III dio al catalán Pablo Xarquíes el privilegio de vender nieve y hielo en Madrid, y quien le hiciera la competencia se arriesgaba a una multa de 200 ducados. La nieve bajaba de noche desde la sierra de Guadarrama, en mulas y carros, y se guardaba apisonada en capas con paja en pozos de la calle Fuencarral, junto a la actual glorieta de Bilbao. En verano salía convertida en hielo para enfriar bebidas y hacer sorbetes.\n\nFuentes: Ayuntamiento de Madrid, CIEA Casa de Campo, «Los pozos de nieve» · P. Corella, «La Casa Arbitrio de la Nieve y Hielos del Reino y de Madrid (1607-1863)» · M.ª T. Fernández Talaya, «Los Pozos de la Nieve de la calle Fuencarral…», Anales del Instituto de Estudios Madrileños, XLV (2005) · Ayuso Vivar y Painaud, «El antiguo comercio del frío: los pozos para la nieve», Revista Forestal n.º 74 (2019) · The Objective, «La nieve del estío, las bebidas barrocas y Mariana de Austria» (2021).\n\n#Shorts #Historia #Madrid #Curiosidades #Hielo",
+      "hashtags": [
+        "#Shorts",
+        "#Historia",
+        "#Madrid",
+        "#Curiosidades",
+        "#Hielo"
+      ],
+      "etiquetas": [
+        "historia",
+        "curiosidades",
+        "datos curiosos",
+        "sabías que",
+        "historia de bolsillo",
+        "historia",
+        "madrid",
+        "curiosidades",
+        "hielo"
+      ],
+      "categoria_id": "27",
+      "idioma": "es",
+      "para_ninos": false,
+      "contenido_sintetico_realista": false,
+      "privacidad_hasta_publicar": "private",
+      "comentario_fijado": "¿Cuánto pagarías por un vaso de agua fría en pleno agosto de 1650? Tinta dice que ni un ducado.",
+      "duracion_s": 47
+    }
+  ]
+}
