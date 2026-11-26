@@ -1,0 +1,75 @@
+{
+  "canal": "Historia de Bolsillo",
+  "fecha": "2026-12-03",
+  "palabra_clave": "NAVIDAD",
+  "videos": [
+    {
+      "orden": 1,
+      "archivo": "2026-12-03_1_boston.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/historia-de-bolsillo-videos./main/2026-12-03/2026-12-03_1_boston.mp4",
+      "publicar_en": "2026-12-03T18:30:00+01:00",
+      "zona_horaria": "Europe/Madrid",
+      "titulo": "En Boston, celebrar la Navidad costaba una multa",
+      "descripcion": "En 1659, el gobierno puritano de la colonia de Massachusetts prohibió celebrar la Navidad: quien la festejara, aunque solo fuera dejando de trabajar o con un banquete, pagaba cinco chelines de multa. Los puritanos decían que la Biblia no habla de celebrar la Navidad y que la fiesta era una excusa para la juerga y la bebida. La ley duró hasta 1681, cuando la presión de Londres la tumbó, pero hasta bien entrado el siglo XIX muchas tiendas y escuelas de Massachusetts siguieron abriendo el 25 de diciembre.\n\nFuentes: History.com, «When Massachusetts Banned Christmas» (C. Klein) · Mass Moments, «Christmas Celebration Outlawed» · American Heritage (1967), sobre la prohibición de la Navidad en Boston · TIME (2014), sobre la Navidad de los puritanos · Mental Floss, «The Time New England Banned Christmas».\n\n#Shorts #Historia #Navidad #Curiosidades #SabíasQue",
+      "hashtags": [
+        "#Shorts",
+        "#Historia",
+        "#Navidad",
+        "#Curiosidades",
+        "#SabíasQue"
+      ],
+      "etiquetas": [
+        "historia",
+        "curiosidades",
+        "datos curiosos",
+        "sabías que",
+        "historia de bolsillo",
+        "historia",
+        "navidad",
+        "curiosidades",
+        "sabíasque"
+      ],
+      "categoria_id": "27",
+      "idioma": "es",
+      "para_ninos": false,
+      "contenido_sintetico_realista": false,
+      "privacidad_hasta_publicar": "private",
+      "comentario_fijado": "¿Pagarías los cinco chelines por celebrar la Navidad o te quedarías trabajando? Crono ya está buscando monedas.",
+      "duracion_s": 49
+    },
+    {
+      "orden": 2,
+      "archivo": "2026-12-03_2_gemini.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/historia-de-bolsillo-videos./main/2026-12-03/2026-12-03_2_gemini.mp4",
+      "publicar_en": "2026-12-03T21:30:00+01:00",
+      "zona_horaria": "Europe/Madrid",
+      "titulo": "Dos astronautas avisaron de un «ovni»… y sonó Jingle Bells",
+      "descripcion": "El 16 de diciembre de 1965, la tripulación de la Gemini 6 (oficialmente, Gemini VI-A) avisó por radio de un objeto que parecía un satélite: iba de norte a sur, en órbita polar, y estaba tan bajo que parecía a punto de entrar en la atmósfera. Era una broma navideña: enseguida sonó «Jingle Bells», tocada con una armónica Hohner «Little Lady» de ocho notas y unos cascabeles que habían subido a bordo sin decírselo a control de tierra y que sujetaban a la pared con hilo dental y velcro. Fueron los primeros instrumentos musicales tocados en el espacio, y desde 1967 pertenecen al Museo Nacional del Aire y el Espacio, en Washington.\n\nFuentes: Smithsonian National Air and Space Museum, «Tom Stafford's Jingle Bells and Wally Schirra's Harmonica» (2014) y fichas «Harmonica, Gemini 6» y «Bells, Gemini 6» · Smithsonian Magazine (2025), sobre los primeros instrumentos tocados en el espacio · Wikipedia, «Music in space».\n\n#Shorts #Historia #Espacio #Curiosidades #Navidad",
+      "hashtags": [
+        "#Shorts",
+        "#Historia",
+        "#Espacio",
+        "#Curiosidades",
+        "#Navidad"
+      ],
+      "etiquetas": [
+        "historia",
+        "curiosidades",
+        "datos curiosos",
+        "sabías que",
+        "historia de bolsillo",
+        "historia",
+        "espacio",
+        "curiosidades",
+        "navidad"
+      ],
+      "categoria_id": "27",
+      "idioma": "es",
+      "para_ninos": false,
+      "contenido_sintetico_realista": false,
+      "privacidad_hasta_publicar": "private",
+      "comentario_fijado": "Si pudieras subir un solo instrumento a una nave espacial, ¿cuál elegirías? Tinta subiría un silbato para despertar a Crono.",
+      "duracion_s": 49
+    }
+  ]
+}
